@@ -85,6 +85,7 @@ again it took the screenshot automatically when the scenario fails and attaches 
 # Dynamic Scenario
 You can change some parts of the scenario, "page number, product name, product list number, etc."
 
+![N11 Happy Scenario test case](https://github.com/OrhanAyyildizSDET/N11-Test-Case/assets/100473852/eabc60f2-cfb5-42f2-afdc-2ae29cb4d00d)
 
 
 ```
