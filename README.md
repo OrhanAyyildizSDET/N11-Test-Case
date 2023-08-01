@@ -1,4 +1,4 @@
-![image-20221228-130802](https://github.com/OrhanAyyildizSDET/N11-Test-Case/assets/100473852/77f14608-71b2-42d7-b98f-dbba551ccc2b)# N11 Automated Test Case
+# N11 Automated Test Case
 
 This test case was written using Cucumber-Selenium frameworks and JAVA language. I used the POM structure for the dynamic project. I have a hook package that placed a Hook class for instantiating some methods and variables before and after the cucumber scenario. I have a page package for locators and a package for step definitions. Also, ı have a util package for singleton Driver and reusable methods. I used the configuration.properties file for baseurl and user information and for reading it ReaderConfig class.
 
